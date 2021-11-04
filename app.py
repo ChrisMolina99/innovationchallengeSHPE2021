@@ -62,26 +62,26 @@ def Contact():
     st.header('Meet the Team')
     col1, col2 = st.columns(2)
     with col1:
-        st.image("./img/bianca.jpg", width=300)
+        st.image("./website/img/bianca.jpg", width=300)
         st.write("Bianca Silva")
         st.write("Computer Engineering")
         st.write("Florida Polytechnic University")
         st.write("careerbiancasilva@gmail.com")
 
-        st.image("./img/santiago.jpg", width=300)
+        st.image("./website/img/santiago.jpg", width=300)
         st.write("Santiago Gomez")
         st.write("Computer Science")
         st.write("Brigham Young University")
         st.write("gomezpaz@byu.edu")
 
     with col2:
-        st.image("./img/chris.jpg", width=300)
+        st.image("./website/img/chris.jpg", width=300)
         st.write("Christopher Molina")
         st.write("Computer Engineering")
         st.write("Florida Polytechnic University")
         st.write("christophermolina99@gmail.com")
 
-        st.image("./img/kirill.jpg", width=300)
+        st.image("./website/img/kirill.jpg", width=300)
         st.write("Kirill Sokov")
         st.write("Mechatronic Engineering")
         st.write("Vaughn College of Aeronautics and Technology")
